@@ -130,6 +130,8 @@ Mammal <|-- whales
 
 3. ให้ยกตัวอย่างประเภทของที่อยู่อาศัย ให้คำจำกัดความและแสดงคลาสไดอะแกรม
 
+<img width="1296" alt="Screenshot 2566-02-05 at 21 56 11" src="https://user-images.githubusercontent.com/115066261/216826797-117e42d1-c2d1-4bf6-a8b1-e55399582955.png">
+
 ## 2. [แผนภาพตามแนวคิด Association abstraction](Week04-lab-part-02.md)
 
 
