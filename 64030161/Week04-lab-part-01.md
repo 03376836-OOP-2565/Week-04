@@ -113,12 +113,20 @@ Mammal <|-- whales
 ![Screenshot 2566-02-03 at 16 09 02](https://user-images.githubusercontent.com/115066261/216558813-e194f6ed-8147-43de-9ac2-288731c76012.png)
 
     1.3 Reptiles (สัตว์เลื้อยคลาน)  เช่น จรเข้ งู กิ้งก่า เป็นสัตว์ที่มีเกล็ดบนผิวหนัง เป็นสัตว์เลือดเย็นและเกิดบนบก
+    
+<img width="979" alt="Screenshot 2566-02-05 at 20 38 15" src="https://user-images.githubusercontent.com/115066261/216822481-5d2d95ea-4ad6-4d43-b3ec-47e56982641c.png">
 
     1.4 Amphibians (สัตว์ครึ่งบกครึ่งน้ำ) เช่น กบ เขียด อึ่งอ่าง เกิดในน้ำ เมื่อแรกเกิดจะหายใจด้วยเหงือกคล้ายปลา เมื่อโตขึ้นจะพัฒนาปอดขึ้นมาและอาศัยบนบกเป็นหลัก
+    
+<img width="980" alt="Screenshot 2566-02-05 at 20 50 36" src="https://user-images.githubusercontent.com/115066261/216823293-343ac5c1-5cb3-4065-ab32-d3c79c74547a.png">
 
     1.5 Arthropods เช่น กุ้ง ก้งกือ แมงมุม มด เป็นสัตว์ที่มีมากกว่า 4 ขา 
+    
+<img width="914" alt="Screenshot 2566-02-05 at 20 59 20" src="https://user-images.githubusercontent.com/115066261/216823880-478823d1-224d-4dd4-a67f-99c96cc7c234.png">
 
 2. ให้วิเคราะห๋และเขียนคลาสไดอะแกรม แสดงการสืบทอดของยานพาหนะ ทางบก ทางน้ำ และ ทางอากาศ
+
+<img width="1173" alt="Screenshot 2566-02-05 at 21 29 06" src="https://user-images.githubusercontent.com/115066261/216825425-ad5d0cca-65d2-4c1a-8cca-f90e38c8f5aa.png">
 
 3. ให้ยกตัวอย่างประเภทของที่อยู่อาศัย ให้คำจำกัดความและแสดงคลาสไดอะแกรม
 
