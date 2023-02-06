@@ -14,6 +14,13 @@
 @enduml
 ```
 
+![image](https://user-images.githubusercontent.com/115066261/217012098-af5bb3ef-71cc-4730-862d-9f2407aa43d2.png)
+
+<img width="903" alt="Screenshot 2566-02-06 at 22 24 49" src="https://user-images.githubusercontent.com/115066261/217012201-ea5788b7-2eff-4d00-ada7-764dc08af35d.png">
+
+```
+ตรงตามที่คิด
+```
 
 2. 
 
@@ -48,6 +55,15 @@ Student "10..40" - "0..1" Subject : > enrolled in
 Subject "1" - "1..3 "Professor : < instructs
 @enduml
 
+```
+
+![image](https://user-images.githubusercontent.com/115066261/217014327-9752bfbf-10e5-4e80-970d-c388bec693a2.png)
+
+
+<img width="1242" alt="Screenshot 2566-02-06 at 22 33 17" src="https://user-images.githubusercontent.com/115066261/217014290-c58a7782-48cf-44b5-ae51-71831d81b193.png">
+
+```
+ตรงตามที่คิด
 ```
 
 3. 
@@ -108,5 +124,11 @@ Keypad <|- AnswerButton
 @enduml
 ```
 
+![image](https://user-images.githubusercontent.com/115066261/217019079-3fd760cf-9f86-4f2c-bd3c-a6efb31c3f68.png)
 
+<img width="1239" alt="Screenshot 2566-02-06 at 22 52 59" src="https://user-images.githubusercontent.com/115066261/217019237-963e1145-a4b2-402f-811c-6863399ab3df.png">
+
+```
+ตรงตามที่คิด
+```
 ### จบการทดลองและแบบฝึกหัด
