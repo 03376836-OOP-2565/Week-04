@@ -13,6 +13,7 @@
 "Coach" - "Player": > teach
 @enduml
 ```
+![ภาพ](https://user-images.githubusercontent.com/112167732/219711394-760a0ad3-4df2-4cfd-a0db-7051e456e41f.png)
 
 
 2. 
@@ -49,6 +50,7 @@ Subject "1" - "1..3 "Professor : < instructs
 @enduml
 
 ```
+![ภาพ](https://user-images.githubusercontent.com/112167732/219711599-4c00c1b4-34be-4807-9dfe-6da3513dec59.png)
 
 3. 
 
@@ -107,6 +109,7 @@ DialPad -|> Keypad
 Keypad <|- AnswerButton
 @enduml
 ```
+![ภาพ](https://user-images.githubusercontent.com/112167732/219711786-d83e768e-293b-4b7f-8963-de19d9896dd5.png)
 
 
 ### จบการทดลองและแบบฝึกหัด
