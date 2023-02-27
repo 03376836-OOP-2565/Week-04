@@ -148,20 +148,28 @@ Forest "1..1" --- "0..n" tree : > has
 1. จงเขียนความสัมพันธ์ในโลกของความเป็นจริง ให้เป็น association diagram โดยเพิ่ม cardinality และ กำหนดทิศทางความสัมพันธ์ให้ถูกต้อง
 
    1.1 คนเป็นเจ้าของรถยนต์
-   
+   ![image](https://user-images.githubusercontent.com/115066329/221605536-19cff1a6-0f59-467d-b2f5-f6d78f3283ea.png)
+
    1.2 แม่มีลูก
-   
+   ![image](https://user-images.githubusercontent.com/115066329/221605999-d23edbb6-2e11-4735-8838-6bc74cf9c2e6.png)
+
    1.3 สามีรักภรรยา
-   
+   ![image](https://user-images.githubusercontent.com/115066329/221606365-f998f4ac-530a-446b-9e4d-c7014662cc3f.png)
+
    1.4 ดินสออยู่ในกระเป๋า
-   
+   ![image](https://user-images.githubusercontent.com/115066329/221606796-3e2469ce-5927-436e-8736-5fe445b8829c.png)
+
    1.5 นักการเมืองออกกฎหมาย
-   
+   ![image](https://user-images.githubusercontent.com/115066329/221607279-fb783c15-cc15-4a4d-bacd-6a10581e4c33.png)
+
    1.6 ทหารใส่เครื่องแบบ
-   
+   ![image](https://user-images.githubusercontent.com/115066329/221607524-82e7eb27-6357-4d81-8e95-d946a8aa32de.png)
+
    1.7 ประธานบริษัทบริหารกิจการ
-   
+   ![image](https://user-images.githubusercontent.com/115066329/221607982-739018ab-bd88-47a1-8810-485fd294202b.png)
+
    1.8 กระดานดำอยู่ในห้องเรียน
+   ![image](https://user-images.githubusercontent.com/115066329/221608240-7c45a089-64f8-4748-9e3a-36e83f6bb09b.png)
 
 
 ## [การวาดไดอะแกรมที่มีองค์ประกอบมากขึ้น](./Week04-lab-part-03.md)
