@@ -147,21 +147,37 @@ Forest "1..1" --- "0..n" tree : > has
 
 1. จงเขียนความสัมพันธ์ในโลกของความเป็นจริง ให้เป็น association diagram โดยเพิ่ม cardinality และ กำหนดทิศทางความสัมพันธ์ให้ถูกต้อง
 
-   1.1 คนเป็นเจ้าของรถยนต์
+   1.1 คนเป็นเจ้าของรถยนต์<br>
+   ![image](https://user-images.githubusercontent.com/115066298/221880501-3e5e2436-ec72-4abc-b9bd-6689d511c8db.png)
+
    
-   1.2 แม่มีลูก
+   1.2 แม่มีลูก<br>
+   ![image](https://user-images.githubusercontent.com/115066298/221880591-34e3809e-fff9-4b74-8a02-7dba4753ed2d.png)
+
    
-   1.3 สามีรักภรรยา
+   1.3 สามีรักภรรยา<br>
+   ![image](https://user-images.githubusercontent.com/115066298/221881064-af204c55-627f-41fb-baa5-fac17a96a374.png)
+
    
-   1.4 ดินสออยู่ในกระเป๋า
+   1.4 ดินสออยู่ในกระเป๋า<br>
+   ![image](https://user-images.githubusercontent.com/115066298/221881131-0f3e207f-0ef0-4224-b88b-ee70d9caced6.png)
+
    
-   1.5 นักการเมืองออกกฎหมาย
+   1.5 นักการเมืองออกกฎหมาย<br>
+   ![image](https://user-images.githubusercontent.com/115066298/221881231-25960b1e-3200-422c-a24e-1d717da76ac1.png)
+
    
-   1.6 ทหารใส่เครื่องแบบ
+   1.6 ทหารใส่เครื่องแบบ<br>
+   ![image](https://user-images.githubusercontent.com/115066298/221881289-e3aa5859-0dcc-401b-8136-f752366f7b15.png)
+
    
-   1.7 ประธานบริษัทบริหารกิจการ
+   1.7 ประธานบริษัทบริหารกิจการ<br>
+   ![image](https://user-images.githubusercontent.com/115066298/221881361-4b9d56e4-9d95-40fc-9169-beb5391885de.png)
+
    
-   1.8 กระดานดำอยู่ในห้องเรียน
+   1.8 กระดานดำอยู่ในห้องเรียน<br>
+   ![image](https://user-images.githubusercontent.com/115066298/221881423-f49a0b49-d213-4763-a780-be8d8e51bb9f.png)
+
 
 
 ## [การวาดไดอะแกรมที่มีองค์ประกอบมากขึ้น](./Week04-lab-part-03.md)
