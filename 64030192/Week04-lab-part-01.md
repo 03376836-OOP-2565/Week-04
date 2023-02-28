@@ -119,7 +119,7 @@ Mammal <|-- whales
     1.5 Arthropods เช่น กุ้ง ก้งกือ แมงมุม มด เป็นสัตว์ที่มีมากกว่า 4 ขา<br>
 ![image](https://user-images.githubusercontent.com/115066298/221879185-a9ac4771-982a-4fdc-89ca-4bd40830a3b2.png)
 
-2. ให้วิเคราะห๋และเขียนคลาสไดอะแกรม แสดงการสืบทอดของยานพาหนะ ทางบก ทางน้ำ และ ทางอากาศ
+2. ให้วิเคราะห๋และเขียนคลาสไดอะแกรม แสดงการสืบทอดของยานพาหนะ ทางบก ทางน้ำ และ ทางอากาศ<br>
 ![image](https://user-images.githubusercontent.com/115066298/221879266-08c63120-478c-45c5-a805-535fdd839408.png)
 ![image](https://user-images.githubusercontent.com/115066298/221879290-c92eb24e-5bd9-4187-b8be-7f076a8050c6.png)
 
