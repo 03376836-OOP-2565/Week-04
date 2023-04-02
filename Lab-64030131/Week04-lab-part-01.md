@@ -33,7 +33,7 @@ class Mammal
 @enduml
 ```
 
-![](./Lab/Pictures/pict-01.png)
+![](./Pictures/pict-01.png)
 
 
 ####  คลาสย่อย
@@ -51,7 +51,7 @@ class whales
 @enduml
 ```
 
-![](./Lab/Pictures/pict-02.png)
+![](./Pictures/pict-02.png)
 
 
 #### การแสดงความสัมพันธ์ generalization
@@ -95,7 +95,7 @@ Mammal <|-- whales
 @enduml
 ```
 
-![](./Lab/Pictures/pict-03.png)
+![](./Pictures/pict-03.png)
 
 
 ## แบบฝึกหัด 
