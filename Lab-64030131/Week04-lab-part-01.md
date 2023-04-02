@@ -119,8 +119,8 @@ Mammal <|-- whales
 ![](./Pictures/Lab4_2.jpg)
 
 3. ให้ยกตัวอย่างประเภทของที่อยู่อาศัย ให้คำจำกัดความและแสดงคลาสไดอะแกรม <br>
-ไดอะแกรมดังกล่าวอธิบายถึงคลาส Home ที่มี properties หลายตัว เช่น address, area, numRooms, numBathrooms, hasGarage และ hasGarden ซึ่งแต่ละ property ก็สามารถกำหนดค่าได้ด้วย methods ต่างๆ เช่น setAddress(), setArea(), setNumRooms(), setNumBathrooms(), setHasGarage() และ setHasGarden() ส่วนส่วน getter methods ใช้สำหรับเรียกดูค่าของ properties ต่างๆ ซึ่งได้แก่ getAddress(), getArea(), getNumRooms(), getNumBathrooms(), hasGarage() และ hasGarden() ตามลำดับ <br>
-![](./Pictures/Lab4_3.jpg)
+![](./Pictures/Lab4_3.jpg) <br>
+ไดอะแกรมดังกล่าวอธิบายถึงคลาส Home ที่มี properties หลายตัว เช่น address, area, numRooms, numBathrooms, hasGarage และ hasGarden ซึ่งแต่ละ property ก็สามารถกำหนดค่าได้ด้วย methods ต่างๆ เช่น setAddress(), setArea(), setNumRooms(), setNumBathrooms(), setHasGarage() และ setHasGarden() ส่วนส่วน getter methods ใช้สำหรับเรียกดูค่าของ properties ต่างๆ ซึ่งได้แก่ getAddress(), getArea(), getNumRooms(), getNumBathrooms(), hasGarage() และ hasGarden() ตามลำดับ 
 ## 2. [แผนภาพตามแนวคิด Association abstraction](Week04-lab-part-02.md)
 
 
