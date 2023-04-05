@@ -14,6 +14,8 @@
 @enduml
 ```
 
+![ภาพ](https://user-images.githubusercontent.com/115066278/230163507-53552407-4f47-47c5-85ae-507fde94c662.png)
+
 
 2. 
 
@@ -49,6 +51,10 @@ Subject "1" - "1..3 "Professor : < instructs
 @enduml
 
 ```
+
+![ภาพ](https://user-images.githubusercontent.com/115066278/230163532-a2920744-31b5-4afe-ab34-4288e4704e45.png)
+
+
 
 3. 
 
@@ -107,6 +113,9 @@ DialPad -|> Keypad
 Keypad <|- AnswerButton
 @enduml
 ```
+
+
+![ภาพ](https://user-images.githubusercontent.com/115066278/230163567-e9c5286c-4394-430d-b387-6efb94038cb5.png)
 
 
 ### จบการทดลองและแบบฝึกหัด
