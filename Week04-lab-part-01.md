@@ -125,7 +125,7 @@ Mammal <|-- whales
 
 3. ให้ยกตัวอย่างประเภทของที่อยู่อาศัย ให้คำจำกัดความและแสดงคลาสไดอะแกรม
 !![Screenshot 2023-04-09 200321](https://user-images.githubusercontent.com/115066186/230774271-35092c13-d144-4d50-b318-a7482c0fffc6.png)
-[ROwxRiCm34LtVOM0ZWRy1HrSsqE1BaLReBDW4J4HYGpqW8Sa_nxPbXzvREIvkjIfV50kH6j4PvJtyWSyQg0Epg9ecPqe_f4q3-Aj1ksORHfKwEVf2qFN0ubhBdzoz6EnKKv-AtTSWpgYqKY7lFwcqS3qEfC_7cY_VvoK2nOevBtX966HCDhb1bXi8QWaeEV](https://user-images.githubusercontent.com/115066186/230774263-9df7ea37-812b-4ecc-903c-a31f9feea90f.png)
+![ROwxRiCm34LtVOM0ZWRy1HrSsqE1BaLReBDW4J4HYGpqW8Sa_nxPbXzvREIvkjIfV50kH6j4PvJtyWSyQg0Epg9ecPqe_f4q3-Aj1ksORHfKwEVf2qFN0ubhBdzoz6EnKKv-AtTSWpgYqKY7lFwcqS3qEfC_7cY_VvoK2nOevBtX966HCDhb1bXi8QWaeEV](https://user-images.githubusercontent.com/115066186/230774263-9df7ea37-812b-4ecc-903c-a31f9feea90f.png)
 
 ## 2. [แผนภาพตามแนวคิด Association abstraction](Week04-lab-part-02.md)
 
