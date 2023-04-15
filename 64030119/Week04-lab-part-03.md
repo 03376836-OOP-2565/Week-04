@@ -13,7 +13,9 @@
 "Coach" - "Player": > teach
 @enduml
 ```
-
+![image](https://user-images.githubusercontent.com/115066285/232202665-a4fb00cf-dcd0-4552-8f3a-00884dff2958.png)
+![image](https://user-images.githubusercontent.com/115066285/232202723-49b9183f-a0c7-496e-8477-290746fcd1d0.png)
+ตรงตามที่คิด
 
 2. 
 
@@ -49,7 +51,9 @@ Subject "1" - "1..3 "Professor : < instructs
 @enduml
 
 ```
-
+![image](https://user-images.githubusercontent.com/115066285/232202674-842f0c81-f716-4da4-8ffc-cc985b01838b.png)
+![image](https://user-images.githubusercontent.com/115066285/232202756-79f5190f-b1ce-4f10-a635-4912123a3ad6.png)
+ตรงตามที่คิด
 3. 
 
 
@@ -107,6 +111,9 @@ DialPad -|> Keypad
 Keypad <|- AnswerButton
 @enduml
 ```
+![image](https://user-images.githubusercontent.com/115066285/232201054-12e4ddd7-3b16-49f6-8eb2-6385d7c11e5c.png)
+![image](https://user-images.githubusercontent.com/115066285/232201085-e4d00869-3135-4e88-8982-78742d0a195e.png)
+ตรงตามที่คิด
 
 
 ### จบการทดลองและแบบฝึกหัด
