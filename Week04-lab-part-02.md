@@ -163,6 +163,19 @@ Forest "1..1" --- "0..n" tree : > has
    
    1.8 กระดานดำอยู่ในห้องเรียน
 
+@startuml
+Mom "1..1" - "0..n" Son : > have
+Person "1..1" -- "0..n" Car : > owns
+Dad "1..1" --- "1..1" Mom : > love
+pencil "0..n"--"0..n"Bag : > in
+politician "0..n" --"1..1"rule : > write
+soldier "1..1"--"1..1"uniform : > wear
+CEO "1..1"--"1.1"company : > manage
+blackboard "1..1"--"1..1"room : > in
+@enduml
+
+![image](https://user-images.githubusercontent.com/116150897/232697567-aa5cd4f3-83f6-403c-97e3-17692abce9c5.png)
+
 
 ## [การวาดไดอะแกรมที่มีองค์ประกอบมากขึ้น](./Week04-lab-part-03.md)
 
