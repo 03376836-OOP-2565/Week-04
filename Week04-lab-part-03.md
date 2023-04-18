@@ -13,6 +13,10 @@
 "Coach" - "Player": > teach
 @enduml
 ```
+ผลลัพธ์ตรงตามที่คิด
+
+![](./Images/last1.1.png)
+![](./Images/last1.png)
 
 
 2. 
@@ -49,6 +53,10 @@ Subject "1" - "1..3 "Professor : < instructs
 @enduml
 
 ```
+ผลลัพธ์ตรงตามที่คิด
+
+![](./Images/last2.1.png)
+![](./Images/last2.png)
 
 3. 
 
@@ -107,6 +115,10 @@ DialPad -|> Keypad
 Keypad <|- AnswerButton
 @enduml
 ```
+ผลลัพธ์ตรงตามที่คิด
+
+![](./Images/last3.1.png)
+![](./Images/last3.png)
 
 
 ### จบการทดลองและแบบฝึกหัด
