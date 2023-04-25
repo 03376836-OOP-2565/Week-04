@@ -147,21 +147,30 @@ Forest "1..1" --- "0..n" tree : > has
 
 1. จงเขียนความสัมพันธ์ในโลกของความเป็นจริง ให้เป็น association diagram โดยเพิ่ม cardinality และ กำหนดทิศทางความสัมพันธ์ให้ถูกต้อง
 
-   1.1 คนเป็นเจ้าของรถยนต์
+   1.1 คนเป็นเจ้าของรถยนต์<br>
+   ![image](https://user-images.githubusercontent.com/115067018/234321180-c9e70ad1-4fcc-4eaf-9471-82978cb95c1d.png)
+
    
-   1.2 แม่มีลูก
-   
-   1.3 สามีรักภรรยา
-   
-   1.4 ดินสออยู่ในกระเป๋า
-   
-   1.5 นักการเมืองออกกฎหมาย
-   
-   1.6 ทหารใส่เครื่องแบบ
-   
-   1.7 ประธานบริษัทบริหารกิจการ
-   
-   1.8 กระดานดำอยู่ในห้องเรียน
+   1.2 แม่มีลูก<br>
+   ![image](https://user-images.githubusercontent.com/115067018/234321235-78a206a3-8e29-460f-88ac-f59b066fd2ac.png)
+
+   1.3 สามีรักภรรยา<br>
+   ![image](https://user-images.githubusercontent.com/115067018/234321289-9f5429d0-93ba-4831-8d4e-416ace86b973.png)
+
+   1.4 ดินสออยู่ในกระเป๋า<br>
+   ![image](https://user-images.githubusercontent.com/115067018/234321327-45d693a7-27a0-4b51-bdef-31838197a0c5.png)
+
+   1.5 นักการเมืองออกกฎหมาย<br>
+   ![image](https://user-images.githubusercontent.com/115067018/234321420-aac624bb-8133-494a-8f1e-76e0e58c45c4.png)
+
+   1.6 ทหารใส่เครื่องแบบ<br>
+   ![image](https://user-images.githubusercontent.com/115067018/234321484-4b9b24e1-1c94-4aa3-ac23-461bdecbb4ba.png)
+
+   1.7 ประธานบริษัทบริหารกิจการ<br>
+   ![image](https://user-images.githubusercontent.com/115067018/234321537-e7e1135d-25f2-4bd3-8e49-73dab425ceb7.png)
+
+   1.8 กระดานดำอยู่ในห้องเรียน<br>
+    ![image](https://user-images.githubusercontent.com/115067018/234321601-3e575c94-fe21-4115-8bb4-bfddea619da3.png)
 
 
 ## [การวาดไดอะแกรมที่มีองค์ประกอบมากขึ้น](./Week04-lab-part-03.md)
