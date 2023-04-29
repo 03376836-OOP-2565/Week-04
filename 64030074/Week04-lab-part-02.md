@@ -163,6 +163,8 @@ Forest "1..1" --- "0..n" tree : > has
    
    1.8 กระดานดำอยู่ในห้องเรียน
 
+![image](https://user-images.githubusercontent.com/115066414/235317012-e66fcec2-0578-4c08-9e35-686dd8a4ad5f.png)
+
 
 ## [การวาดไดอะแกรมที่มีองค์ประกอบมากขึ้น](./Week04-lab-part-03.md)
 
