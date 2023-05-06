@@ -149,19 +149,44 @@ Forest "1..1" --- "0..n" tree : > has
 
    1.1 คนเป็นเจ้าของรถยนต์
    
+   ![image](https://user-images.githubusercontent.com/115066431/236637954-d8df492d-bb1a-413f-8fa0-c41a3263f45d.png)
+
+   
    1.2 แม่มีลูก
+
+
+   ![image](https://user-images.githubusercontent.com/115066431/236638297-a73655cb-1a35-4788-bd69-2ca4464435f9.png)
+
    
    1.3 สามีรักภรรยา
+
+![image](https://user-images.githubusercontent.com/115066431/236638344-bda2826f-ee7f-43fd-aaf3-018e9f1654af.png)
+
    
    1.4 ดินสออยู่ในกระเป๋า
    
+   ![image](https://user-images.githubusercontent.com/115066431/236638378-89c035f9-d661-43b8-b0c3-8476c82004b5.png)
+
+   
    1.5 นักการเมืองออกกฎหมาย
+   
+   ![image](https://user-images.githubusercontent.com/115066431/236638418-c75f6c05-c267-4f6e-91f4-3d7bc190febb.png)
+
    
    1.6 ทหารใส่เครื่องแบบ
    
+   ![image](https://user-images.githubusercontent.com/115066431/236638472-b8cd2717-cf31-46b1-851b-62876edc1bc2.png)
+
+   
    1.7 ประธานบริษัทบริหารกิจการ
    
+   ![image](https://user-images.githubusercontent.com/115066431/236638511-4264a18c-a19a-41c2-bfa7-d9ac3cf3f580.png)
+
+   
    1.8 กระดานดำอยู่ในห้องเรียน
+   
+   ![image](https://user-images.githubusercontent.com/115066431/236638799-a8872d28-1dab-4e2c-9580-b1eff69d3e04.png)
+
 
 
 ## [การวาดไดอะแกรมที่มีองค์ประกอบมากขึ้น](./Week04-lab-part-03.md)
