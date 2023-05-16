@@ -148,28 +148,36 @@ Forest "1..1" --- "0..n" tree : > has
 1. จงเขียนความสัมพันธ์ในโลกของความเป็นจริง ให้เป็น association diagram โดยเพิ่ม cardinality และ กำหนดทิศทางความสัมพันธ์ให้ถูกต้อง
 
    1.1 คนเป็นเจ้าของรถยนต์
-   ![image](https://github.com/CHAIYAPRUK/Week-04/assets/115066395/a3fe8191-46f6-4faf-ab56-f56383cd0e0b)
+  
+  ![image](https://github.com/CHAIYAPRUK/Week-04/assets/115066395/a3fe8191-46f6-4faf-ab56-f56383cd0e0b)
 
    1.2 แม่มีลูก
-   ![image](https://github.com/CHAIYAPRUK/Week-04/assets/115066395/01c5aab8-63f2-44d5-aac4-7ee1d0269c8c)
+  
+  ![image](https://github.com/CHAIYAPRUK/Week-04/assets/115066395/01c5aab8-63f2-44d5-aac4-7ee1d0269c8c)
 
    1.3 สามีรักภรรยา
-   ![image](https://github.com/CHAIYAPRUK/Week-04/assets/115066395/ef7fff9c-0f87-409d-8bc4-7a9423edadaa)
+  
+  ![image](https://github.com/CHAIYAPRUK/Week-04/assets/115066395/ef7fff9c-0f87-409d-8bc4-7a9423edadaa)
 
    1.4 ดินสออยู่ในกระเป๋า
-   ![image](https://github.com/CHAIYAPRUK/Week-04/assets/115066395/7b4a1708-b91c-4c63-80c5-b1a5c590861c)
+  
+  ![image](https://github.com/CHAIYAPRUK/Week-04/assets/115066395/7b4a1708-b91c-4c63-80c5-b1a5c590861c)
 
    1.5 นักการเมืองออกกฎหมาย
+   
    ![image](https://github.com/CHAIYAPRUK/Week-04/assets/115066395/50f75272-3de5-41d7-b429-10fa685225f6)
 
    1.6 ทหารใส่เครื่องแบบ
+   
    ![image](https://github.com/CHAIYAPRUK/Week-04/assets/115066395/293b4051-5698-4fb1-80e0-031e4be922c6)
 
    1.7 ประธานบริษัทบริหารกิจการ
-   ![image](https://github.com/CHAIYAPRUK/Week-04/assets/115066395/a6a9b40e-a4c4-41ab-8ac8-495325216e74)
+  
+  ![image](https://github.com/CHAIYAPRUK/Week-04/assets/115066395/a6a9b40e-a4c4-41ab-8ac8-495325216e74)
 
    1.8 กระดานดำอยู่ในห้องเรียน
-![image](https://github.com/CHAIYAPRUK/Week-04/assets/115066395/3f96f15b-059e-4b6c-947b-8368195e1f0d)
+
+  ![image](https://github.com/CHAIYAPRUK/Week-04/assets/115066395/3f96f15b-059e-4b6c-947b-8368195e1f0d)
 
 
 ## [การวาดไดอะแกรมที่มีองค์ประกอบมากขึ้น](./Week04-lab-part-03.md)
