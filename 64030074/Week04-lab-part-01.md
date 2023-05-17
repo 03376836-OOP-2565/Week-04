@@ -113,6 +113,55 @@ Mammal <|-- whales
     1.4 Amphibians (สัตว์ครึ่งบกครึ่งน้ำ) เช่น กบ เขียด อึ่งอ่าง เกิดในน้ำ เมื่อแรกเกิดจะหายใจด้วยเหงือกคล้ายปลา เมื่อโตขึ้นจะพัฒนาปอดขึ้นมาและอาศัยบนบกเป็นหลัก
 
     1.5 Arthropods เช่น กุ้ง ก้งกือ แมงมุม มด เป็นสัตว์ที่มีมากกว่า 4 ขา 
+```plantuml
+@startuml
+class Animal {
+    - has_skin: bool
+}
+
+class Bird {
+    - has_feathers: bool
+    - has_beak: bool
+    - has_wings: bool
+    - has_tail: bool
+    + fly()
+    + molt()
+}
+
+class Fish {
+    - has_gills: bool
+    - has_scales: bool
+    - has_fins: bool
+    + swim()
+}
+
+class Reptile {
+    - has_scales: bool
+    - is_cold_blooded: bool
+    + crawl()
+}
+
+class Amphibian {
+    - has_gills: bool
+    - has_lungs: bool
+    + swim()
+    + jump()
+}
+
+class Arthropod {
+    - has_exoskeleton: bool
+    - number_of_legs: int
+    + crawl()
+}
+
+Animal <|-- Bird
+Animal <|-- Fish
+Animal <|-- Reptile
+Animal <|-- Amphibian
+Animal <|-- Arthropod
+@enduml
+```
+![image](https://github.com/tnpn2545/Week-04/assets/115066414/477a97d8-de54-40f2-8a5e-fb58fdcef61a)
 
 2. ให้วิเคราะห๋และเขียนคลาสไดอะแกรม แสดงการสืบทอดของยานพาหนะ ทางบก ทางน้ำ และ ทางอากาศ
 
