@@ -199,6 +199,52 @@ Vehicle <|-- Aircraft
 ![image](https://github.com/tnpn2545/Week-04/assets/115066414/7efea7a5-cb93-4b00-a781-fa651378685e)
 
 3. ให้ยกตัวอย่างประเภทของที่อยู่อาศัย ให้คำจำกัดความและแสดงคลาสไดอะแกรม
+```plantuml
+@startuml
+class Dwelling {
+    - address: string
+    - num_rooms: int
+    - num_bathrooms: int
+    + get_address(): string
+}
+
+class SingleHouse extends Dwelling {
+    - yard_size: float
+    + maintain_yard()
+}
+
+class Townhouse extends Dwelling {
+    - shared_walls: int
+    + share_common_area()
+}
+
+class Condominium extends Dwelling {
+    - floor_number: int
+    - building_facilities: string[]
+    + access_common_facilities()
+}
+
+class Apartment extends Dwelling {
+    - num_units: int
+    - unit_size: float
+    + rent_unit()
+}
+
+class Villa extends Dwelling {
+    - pool_available: bool
+    - garden_size: float
+    + enjoy_private_amenities()
+}
+
+Dwelling <|-- SingleHouse
+Dwelling <|-- Townhouse
+Dwelling <|-- Condominium
+Dwelling <|-- Apartment
+Dwelling <|-- Villa
+
+@enduml
+```
+![image](https://github.com/tnpn2545/Week-04/assets/115066414/3640da6e-0ca2-4d7b-97d3-b98dbdaa0d35)
 
 ## 2. [แผนภาพตามแนวคิด Association abstraction](Week04-lab-part-02.md)
 
