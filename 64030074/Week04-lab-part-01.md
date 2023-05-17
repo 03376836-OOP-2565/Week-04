@@ -164,6 +164,39 @@ Animal <|-- Arthropod
 ![image](https://github.com/tnpn2545/Week-04/assets/115066414/477a97d8-de54-40f2-8a5e-fb58fdcef61a)
 
 2. ให้วิเคราะห๋และเขียนคลาสไดอะแกรม แสดงการสืบทอดของยานพาหนะ ทางบก ทางน้ำ และ ทางอากาศ
+``` plantuml
+@startuml
+class Vehicle {
+    - num_wheels: int
+    - engine_size: float
+    - max_speed: float
+    + start_engine()
+    + stop_engine()
+}
+
+class LandVehicle extends Vehicle {
+    - ground_clearance: float
+    + drive()
+}
+
+class Watercraft extends Vehicle {
+    - boat_type: string
+    - engine_count: int
+    + float()
+}
+
+class Aircraft extends Vehicle {
+    - aircraft_type: string
+    - propulsion_system: string
+    + fly()
+}
+
+Vehicle <|-- LandVehicle
+Vehicle <|-- Watercraft
+Vehicle <|-- Aircraft
+@enduml
+```
+![image](https://github.com/tnpn2545/Week-04/assets/115066414/7efea7a5-cb93-4b00-a781-fa651378685e)
 
 3. ให้ยกตัวอย่างประเภทของที่อยู่อาศัย ให้คำจำกัดความและแสดงคลาสไดอะแกรม
 
