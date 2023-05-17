@@ -111,6 +111,6 @@ Keypad <|- AnswerButton
 @enduml
 ```
 ![image](https://user-images.githubusercontent.com/115066414/235317097-111e1f44-6236-4fb9-bb08-6aa2bac207b7.png)
-
+![2AB9853C-B0F3-4440-BD11-ECB7EDAC7327](https://github.com/tnpn2545/Week-04/assets/115066414/b01b5d25-d0e7-447e-bd01-c11be6214d9c)
 
 ### จบการทดลองและแบบฝึกหัด
